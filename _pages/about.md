@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=7A5B95&center=true&vCenter=true&width=500&lines=A+constant+learner+in+Robotics;A+persistent+player+of+Contract+Bridge;A+little+fan+of+Christopher+Nolan;An+elementary+singer+in+CH%2FEN;A+not-the-brightest+bulb+with+luck;A+naive+dreamer+in+Hogwarts;A+loyal+summoner+of+Ezreal;An+intermediate+participant+of+Badminton;An+avid+reader+of+Biographies;A+staunch+believer+in+Materialism)](https://git.io/typing-svg)
+
 I am an undergraduate currently focusing specifically in <strong>robotics</strong> in the research group of <a href='https://scholar.google.com/citations?user=dfS4ltoAAAAJ&hl=en&oi=ao'>Prof. Mengtang Li</a>. My research areas now are <strong>mechanical design</strong> and <strong>control</strong>.
 
 <!--
