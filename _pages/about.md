@@ -68,7 +68,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 
-# 👁️‍🗨️ Other
+# 💻 Other
 
 ## ♠️♥️♦️♣️ Bridge
 I am an enthusiast and still a learner of <strong>contract bridge</strong>.
