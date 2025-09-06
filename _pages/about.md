@@ -73,4 +73,4 @@ My research interest includes neural machine translation and computer vision. I 
 
 ## <span class='anchor' id='-bridge'>♠️♥️♦️♣️ Bridge</span>
 <!--♠️♥️♦️♣️ :spades::hearts::diamonds::clubs:-->
-I am an enthusiast and still a learner of <strong>contract bridge</strong>.
+I am an enthusiast and a learner of <strong>contract bridge</strong>, which is I think the irreplaceable competitive game to sharpen memories and thinking skills and also a great release from a hectic work life. When it comes to bidding, an art form in bridge with a rich history of insights from the game's masters, the system I prefer and constantly work hard to get better at is Precision, of which the fundamentation is the book *The Precision System of Contract Bridge Bidding* by Charles H. Goren. I truly love how he put it then: "Precision is enjoyable, logical, and not hard to learn." And of course, it is no wonder that the system introduced originally in the 1970s has earned its place and is still played at bridge tables all over the world.
