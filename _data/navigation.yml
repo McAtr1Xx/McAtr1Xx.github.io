@@ -23,3 +23,6 @@ main:
 
   - title: "Other"
     url: "/#-other"
+    children:
+      - title: "Contract Bridge"
+        url: "/#-contract-bridge"
