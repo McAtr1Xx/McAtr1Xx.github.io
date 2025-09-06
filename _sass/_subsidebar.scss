@@ -1,0 +1,41 @@
+/* --- Custom Sidebar Dropdown --- */
+
+// 选择有子菜单的导航项
+.nav--main .nav__item--with-children {
+    position: relative; // 为子菜单的绝对定位提供父容器
+}
+
+// 默认隐藏子菜单
+.nav--main .nav__sub-menu {
+    list-style: none;
+    padding-left: 0;
+
+    // 使用 max-height 和 opacity 实现平滑的展开/折叠动画
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    visibility: hidden;
+    transition: all 0.2s ease-in-out;
+}
+
+// 当鼠标悬停在父菜单项上时，显示子菜单
+.nav--main .nav__item--with-children:hover>.nav__sub-menu {
+    max-height: 500px; // 一个足够大的值，确保所有子项都能显示
+    opacity: 1;
+    visibility: visible;
+    margin-top: 0.5em; // 在父项和子菜单之间留出一点空隙
+}
+
+// 子菜单项的样式
+.nav--main .nav__sub-menu li a {
+    font-size: 0.9em; // 让子菜单字体稍微小一点
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 1.5em; // 增加缩进，以表示层级关系
+    display: block; // 确保整个区域都可以点击
+    color: #555; // 子菜单项的颜色
+
+    &:hover {
+        color: #000; // 悬停时加深颜色
+    }
+}
