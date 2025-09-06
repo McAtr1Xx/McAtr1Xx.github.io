@@ -69,9 +69,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # <span class='anchor' id='-other'>👁️‍🗨️ Other</span>
-
 <!--👁️‍🗨️ :eye_speech_bubble:-->
-<!--
-## ♠️ Bridge
-♠️♥️♦️♣️ :spades:
-I am an enthusiast and still a learner of <strong>contract bridge</strong>.-->
+
+## <span class='anchor' id='-bridge'>♠️♥️♦️♣️ Bridge</span>
+<!--♠️♥️♦️♣️ :spades::hearts::diamonds::clubs:-->
+I am an enthusiast and still a learner of <strong>contract bridge</strong>.
