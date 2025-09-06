@@ -88,7 +88,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.07 - present*, Robot Design and Control Intern, Shenzhen MGCOOL Technology Co., Ltd., Shenzhen, China.
 
 
-# <span class='anchor' id='-other'>👁️‍🗨️ Other</span>
+# <span class='anchor' id='-others'>👁️‍🗨️ Others</span>
 <!--👁️‍🗨️ :eye_speech_bubble:-->
 
 ## <span class='anchor' id='-contract-bridge'>♠️♥️♦️♣️ Contract Bridge</span>
