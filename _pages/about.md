@@ -70,7 +70,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 👁️‍🗨️ Other
 <!--👁️‍🗨️ :eye_speech_bubble:-->
-
+<!--
 ## ♠️ Bridge
-<!--♠️♥️♦️♣️ :spades:-->
-I am an enthusiast and still a learner of <strong>contract bridge</strong>.
+♠️♥️♦️♣️ :spades:
+I am an enthusiast and still a learner of <strong>contract bridge</strong>.-->
