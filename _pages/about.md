@@ -26,6 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 - *2025.08*: &nbsp;🎤🎤 I am honor to deliver an oral presentation in <strong>FRSE 2025</strong>.
+
 <!--
  *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
  *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
@@ -38,7 +39,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications
 
-[C1] <font color="#D8315B">Hongyi Chen</font>, Yicheng Chang, Puxin Yan, Minghao Wu, Mengtang Li. *novel three-finger robotic gripper with flexible belt mechanism for precision and compliant grasping*. in <strong>FRSE 2025</strong>.
+<strong>2025</strong>
+
+- [C3]📄<strong><font color="#D8315B">Hongyi Chen</font></strong>, Minghao Wu, Yicheng Chang, Puxin Yan, Mengtang Li. *Construction and Kinematic Analysis of a Cable-Driven Parallel Robot for Tile Laying*. in 2025 China Automation Congress (<strong>CAC 2025</strong>).
+
+- [C2]📄Ruicheng Zhang, Puxin Yan, Zeyu Zhang, Yicheng Chang, <strong><font color="#D8315B">Hongyi Chen</font></strong>, Zhi Jin. *RPD-Diff: Region-Adaptive Physics-Guided Diffusion Model for Visibility Enhancement under Dense and Non-Uniform Haze*. in 2025 The British Machine Vision Conference (<strong>BMVC 2025</strong>).
+
+- [C1]📄<strong><font color="#D8315B">Hongyi Chen</font></strong>, Yicheng Chang, Puxin Yan, Minghao Wu, Mengtang Li. *A Novel Three-Finger Robotic Gripper With Flexible Belt Mechanism for Precision and Compliant Grasping*. in 2025 International Conference on Frontiers of Robotics and Software Engineering (<strong>FRSE 2025</strong>).
+
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FRSE 2025</div><img src='images/Gripper_FRSE_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,4 +91,5 @@ My research interest includes neural machine translation and computer vision. I 
 
 ## <span class='anchor' id='-contract-bridge'>♠️♥️♦️♣️ Contract Bridge</span>
 <!--♠️♥️♦️♣️ :spades::hearts::diamonds::clubs:-->
+
 I am an enthusiast and a learner of <strong>contract bridge</strong>, which is I think the irreplaceable competitive game to sharpen memories and thinking skills and also a great release from a hectic work life. When it comes to bidding, an art form in bridge with a rich history of insights from the game's masters, the system I prefer and constantly work hard to get better at is Precision, of which the fundamentation is the book, *The Precision System of Contract Bridge Bidding*, by Charles H. Goren. I truly love how he put it then: "Precision is enjoyable, logical, and not hard to learn." And of course, it is no wonder that the system introduced originally in the 1970s has earned its place and is still played at bridge tables all over the world.
