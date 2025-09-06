@@ -37,16 +37,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📝 Publications
+
+[C1] <font color="#D8315B">Hongyi Chen</font>, Yicheng Chang, Puxin Yan, Minghao Wu, Mengtang Li. *novel three-finger robotic gripper with flexible belt mechanism for precision and compliant grasping*. in <strong>FRSE 2025</strong>.
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FRSE 2025</div><img src='images/Gripper_FRSE_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A novel three-finger robotic gripper with flexible belt mechanism for precision and compliant grasping]()
+
 **Hongyi Chen**, Yicheng Chang, Puxin Yan, Minghao Wu, Mengtang Li
 
 </div>
 </div>
-
-<!--
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
