@@ -22,7 +22,7 @@ main:
     url: "/#-internships"
 
   - title: "Other"
-    url: "/#%EF%B8%8F%EF%B8%8F-other"
+    url: "/#eye_speech_bubble-other"
     children:
       - title: "Bridge"
-        url: "/#-bridge"
+        url: "/#spades-bridge"
