@@ -33,10 +33,19 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-- *2022.09 - present*, <strong>Bachelor</strong> of Intelligent Science and Technology, the School of Intelligent Systems Engineering, <strong>Sun Yat-sen University.</strong>. 
+- *2022.09 - present*, <strong>Bachelor</strong> of Intelligent Science and Technology, the School of Intelligent Systems Engineering, <strong>Sun Yat-sen University.</strong>
 
 
-# 📝 Publications 
+# 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FRSE 2025</div><img src='images/Gripper_FRSE_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A novel three-finger robotic gripper with flexible belt mechanism for precision and compliant grasping]()
+**Hongyi Chen**, Yicheng Chang, Puxin Yan, Minghao Wu, Mengtang Li
+
+</div>
+</div>
+
 <!--
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -64,7 +73,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.07 - present*, Robot Design and Control Intern, Shenzhen MGCOOL Technology Co., Ltd., Shenzhen, China.
 
 
 # <span class='anchor' id='-other'>👁️‍🗨️ Other</span>
