@@ -22,7 +22,7 @@ main:
     url: "/#-internships"
 
   - title: "Other"
-    url: "/#👁️🗨️-other"
+    url: "/#-other"
     children:
       - title: "Bridge"
-        url: "/#spades-bridge"
+        url: "/#-bridge"
