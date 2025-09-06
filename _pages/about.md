@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-- *2022.09 - present*, <strong>Bachelor</strong> of Intelligent Science and Technology, the School of Intelligent Systems Engineering, <strong>Sun Yat-sen University</strong>. 🔗<a href='https://www.sysu.edu.cn/'>[SYSU]</a> 🔗<a href='https://ise.sysu.edu.cn/'>[ISE]</a>
+- *2022.09 - present*, <strong>Bachelor</strong> of Intelligent Science and Technology, the School of Intelligent Systems Engineering, <strong>Sun Yat-sen University</strong>. 🔗<a href='https://ise.sysu.edu.cn/'>[ISE]</a> 🔗<a href='https://www.sysu.edu.cn/'>[SYSU]</a>
 
 
 # 📝 Publications
