@@ -68,8 +68,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 
-<span class='anchor' id='-other'></span>
-# 👁️‍🗨️ Other
+# <span class='anchor' id='-other'>👁️‍🗨️ Other</span>
+
 <!--👁️‍🗨️ :eye_speech_bubble:-->
 <!--
 ## ♠️ Bridge
