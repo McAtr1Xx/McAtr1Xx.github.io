@@ -25,4 +25,4 @@ main:
     url: "/#%EF%B8%8F%EF%B8%8F-other"
     children:
       - title: "Bridge"
-        url: "/#%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F-bridge"
+        url: "/#-bridge"

@@ -70,5 +70,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 👁️‍🗨️ Other
 
-## ♠️♥️♦️♣️ Bridge
+## :spades: Bridge
+<!--♠️♥️♦️♣️-->
 I am an enthusiast and still a learner of <strong>contract bridge</strong>.
