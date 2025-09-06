@@ -1,41 +1,64 @@
+/* _sass/minimal-mistakes/_custom.scss */
+
 /* --- Custom Sidebar Dropdown --- */
 
-// 选择有子菜单的导航项
-.nav--main .nav__item--with-children {
-    position: relative; // 为子菜单的绝对定位提供父容器
+/* 1. 给包含子菜单的 <li> 元素添加相对定位，作为子菜单定位的基准 */
+.sidebar .nav__item--with-children {
+    position: relative;
 }
 
-// 默认隐藏子菜单
-.nav--main .nav__sub-menu {
+/* 2. 默认隐藏子菜单 */
+.sidebar .nav__item--with-children .nav__sub-menu {
+    display: none;
+    /* 先用 display: none 彻底隐藏 */
+    position: absolute;
+    /* 改为绝对定位，使其脱离文档流，悬浮在父菜单下方 */
+    top: 100%;
+    /* 从父菜单的底部开始显示 */
+    left: 0;
+    z-index: 1000;
+    /* 确保在最上层，不会被其他元素遮挡 */
+
     list-style: none;
     padding-left: 0;
+    margin-top: 5px;
+    /* 与父菜单之间留出一点空隙 */
 
-    // 使用 max-height 和 opacity 实现平滑的展开/折叠动画
-    max-height: 0;
-    opacity: 0;
-    overflow: hidden;
-    visibility: hidden;
-    transition: all 0.2s ease-in-out;
+    background-color: #ffffff;
+    /* 给下拉菜单一个白色背景 */
+    border: 1px solid #e0e0e0;
+    /* 添加一个浅灰色边框 */
+    border-radius: 4px;
+    /* 圆角 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* 添加阴影，更有立体感 */
+    min-width: 150px;
+    /* 设置一个最小宽度 */
 }
 
-// 当鼠标悬停在父菜单项上时，显示子菜单
-.nav--main .nav__item--with-children:hover>.nav__sub-menu {
-    max-height: 500px; // 一个足够大的值，确保所有子项都能显示
-    opacity: 1;
-    visibility: visible;
-    margin-top: 0.5em; // 在父项和子菜单之间留出一点空隙
+/* 3. 当鼠标悬停在父菜单项上时，显示子菜单 */
+.sidebar .nav__item--with-children:hover>.nav__sub-menu {
+    display: block;
+    /* 悬停时，将子菜单显示出来 */
 }
 
-// 子菜单项的样式
-.nav--main .nav__sub-menu li a {
-    font-size: 0.9em; // 让子菜单字体稍微小一点
-    padding-top: 0.25rem;
-    padding-bottom: 0.25rem;
-    padding-left: 1.5em; // 增加缩进，以表示层级关系
-    display: block; // 确保整个区域都可以点击
-    color: #555; // 子菜单项的颜色
+/* 4. 子菜单项的样式 */
+.sidebar .nav__sub-menu li a {
+    display: block;
+    /* 让整个区域都可以点击 */
+    padding: 8px 15px;
+    /* 调整内边距，使其更美观 */
+    font-size: 0.9em;
+    color: #333;
+    /* 默认文字颜色 */
+    white-space: nowrap;
+    /* 防止文字换行 */
+    text-decoration: none;
 
+    /* 鼠标悬停在子菜单项上的效果 */
     &:hover {
-        color: #000; // 悬停时加深颜色
+        background-color: #f5f5f5;
+        /* 添加一个浅灰色背景 */
+        color: #000;
     }
 }
