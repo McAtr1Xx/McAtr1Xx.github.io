@@ -91,10 +91,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 👑 Memberships
-🎓 <strong>Academic</strong>
+## 🎓 <strong>Academic</strong>
 - *vacancy*...
 
-🎩 <strong>Social</strong>
+## 🎩 <strong>Social</strong>
 - *Personal Member*, Chinese Contract Bridge Association (<strong>CCBA</strong>)
 
 
