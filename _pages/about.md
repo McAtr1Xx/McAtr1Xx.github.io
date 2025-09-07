@@ -29,18 +29,12 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - *2025.08*: &nbsp;🎤🎤 I am honor to deliver an oral presentation in <strong>FRSE 2025</strong>.
 
-<!--
- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
--->
-
 
 # 📖 Educations
 - *2022.09 - present*, <strong>Bachelor</strong> of Intelligent Science and Technology, the School of Intelligent Systems Engineering, <strong>Sun Yat-sen University</strong>. 🔗<a href='https://ise.sysu.edu.cn/'>[ISE]</a> 🔗<a href='https://www.sysu.edu.cn/'>[SYSU]</a>
 
 
 # 📝 Publications
-
 <strong>2025</strong>
 
 - [C3]📄<strong><font color="#D8315B">Hongyi Chen</font></strong>, Minghao Wu, Yicheng Chang, Puxin Yan, Mengtang Li. *Construction and Kinematic Analysis of a Cable-Driven Parallel Robot for Tile Laying*. in 2025 China Automation Congress (<strong>CAC 2025</strong>).
@@ -91,19 +85,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 👑 Memberships
-## 🎓 <strong>Academic</strong>
+## 🎓 Academic
 - *vacancy*...
 
-## 🎩 <strong>Social</strong>
+## 🎩 Social
 - *Personal Member*, Chinese Contract Bridge Association (<strong>CCBA</strong>)
 
 
 # <span class='anchor' id='-others'>👁️‍🗨️ Others</span>
-<!--👁️‍🗨️ :eye_speech_bubble:-->
-
 ## <span class='anchor' id='-contract-bridge'>♠️♥️♦️♣️ Contract Bridge</span>
-<!--♠️♥️♦️♣️ :spades::hearts::diamonds::clubs:-->
-
 I am an enthusiast and a learner of contract bridge, which I think is the irreplaceable competitive game to sharpen memories and thinking skills and also a great release from a hectic work life.
 
 When it comes to bidding, an art form in bridge with a rich history of insights from the game's masters, the system I prefer and constantly work hard to get better at is <strong>Precision</strong>, of which the fundamentation is the book, *The Precision System of Contract Bridge Bidding*, by Charles H. Goren🔗<a href='https://1lib.sk/book/28962925/3c0972/the-precision-system-of-contract-bridge-bidding.html'>[Z-Library]</a>. I am fond of how he put it then: "Precision is enjoyable, logical, and not hard to learn." And of course, it is no wonder that the system introduced originally in the 1970s has earned its place and is still played at bridge tables all over the world.
