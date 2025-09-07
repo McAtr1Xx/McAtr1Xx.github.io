@@ -74,7 +74,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -86,6 +86,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2025.07 - present*, Robot Design and Control Intern, Shenzhen MGCOOL Technology Co., Ltd., Shenzhen, China.
+
+
+# 👑 Menberships
+🎓 Academic
+- *vacancy*...
+
+🎩 Social
+- *Personal Menber* of Chinese Contract Bridge Association (<strong>CCBA</strong>)
 
 
 # <span class='anchor' id='-others'>👁️‍🗨️ Others</span>
