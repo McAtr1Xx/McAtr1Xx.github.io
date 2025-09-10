@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications
 <strong>2025</strong>
 
-- [C3]📄<strong><font color="#D8315B">Hongyi Chen</font></strong>, Minghao Wu, Yicheng Chang, Puxin Yan, Mengtang Li. *<font color="#255E12">Construction and Kinematic Analysis of a Cable-Driven Parallel Robot for Tile Laying</font>*. in 2025 China Automation Congress (<strong>CAC 2025</strong>) <table><tr><td bgcolor="#00369F">CAC 2025</td></tr></table>
+- [C3]📄<strong><font color="#D8315B">Hongyi Chen</font></strong>, Minghao Wu, Yicheng Chang, Puxin Yan, Mengtang Li. *<font color="#255E12">Construction and Kinematic Analysis of a Cable-Driven Parallel Robot for Tile Laying</font>*. in 2025 China Automation Congress (<strong>CAC 2025</strong>) <font style="background: #00369F;"><font color="#FFFFFF">CAC 2025</font></font>
 
 - [C2]📄Ruicheng Zhang, Puxin Yan, Zeyu Zhang, Yicheng Chang, <strong><font color="#D8315B">Hongyi Chen</font></strong>, Zhi Jin. *<font color="#255E12">RPD-Diff: Region-Adaptive Physics-Guided Diffusion Model for Visibility Enhancement under Dense and Non-Uniform Haze</font>*. in 2025 The British Machine Vision Conference (<strong>BMVC 2025</strong>) <div class='paper-box'><div><div class="badge">BMVC 2025</div></div></div>.
 
