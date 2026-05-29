@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎤🎤 I am honor to deliver an oral presentation in <strong>FRSE 2025</strong>.
+- *2025.08*: &nbsp; something ...
 
 
 # 📖 Educations
@@ -37,11 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications
 <strong>2025</strong>
 
-- [C3]📄<strong><font color="#D8315B">Hongyi Chen</font></strong>, Minghao Wu, Yicheng Chang, Puxin Yan, Mengtang Li. *Construction and Kinematic Analysis of a Cable-Driven Parallel Robot for Tile Laying*. in 2025 China Automation Congress (<strong>CAC 2025</strong>). 
-
-- [C2]📄Ruicheng Zhang, Puxin Yan, Zeyu Zhang, Yicheng Chang, <strong><font color="#D8315B">Hongyi Chen</font></strong>, Zhi Jin. *RPD-Diff: Region-Adaptive Physics-Guided Diffusion Model for Visibility Enhancement under Dense and Non-Uniform Haze*. in 2025 The British Machine Vision Conference (<strong>BMVC 2025</strong>).
-
-- [C1]📄<strong><font color="#D8315B">Hongyi Chen</font></strong>, Yicheng Chang, Puxin Yan, Minghao Wu, Mengtang Li. *A Novel Three-Finger Robotic Gripper With Flexible Belt Mechanism for Precision and Compliant Grasping*. in 2025 International Conference on Frontiers of Robotics and Software Engineering (<strong>FRSE 2025</strong>).
+- [C1]📄Ruicheng Zhang, Puxin Yan, Zeyu Zhang, Yicheng Chang, <strong><font color="#D8315B">Hongyi Chen</font></strong>, Zhi Jin. *RPD-Diff: Region-Adaptive Physics-Guided Diffusion Model for Visibility Enhancement under Dense and Non-Uniform Haze*. in 2025 The British Machine Vision Conference (<strong>BMVC 2025</strong>).
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FRSE 2025</div><img src='images/Gripper_FRSE_2025.png' alt="sym" width="100%"></div></div>
