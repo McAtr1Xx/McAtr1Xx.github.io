@@ -32,13 +32,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-- *2022.09 - present*, <strong>Bachelor</strong> of Engineering in Intelligent Science and Technology, the School of Intelligent Systems Engineering, <strong>Sun Yat-sen University</strong>. 🔗<a href='https://ise.sysu.edu.cn/'>[ISE]</a> 🔗<a href='https://www.sysu.edu.cn/'>[SYSU]</a>
+- *2022.09 - present*, <strong>B.Eng.</strong> in Intelligent Science and Technology, the School of Intelligent Systems Engineering, <strong>Sun Yat-sen University</strong>. 🔗<a href='https://ise.sysu.edu.cn/'>[ISE]</a> 🔗<a href='https://www.sysu.edu.cn/'>[SYSU]</a>
 
 
 # 📝 Publications
 <strong>2025</strong>
 
-- [C1]📄Ruicheng Zhang, Puxin Yan, Zeyu Zhang, Yicheng Chang, <strong><font color="#D8315B">Hongyi Chen</font></strong>, Zhi Jin<sup>#</sup>. *RPD-Diff: Region-Adaptive Physics-Guided Diffusion Model for Visibility Enhancement under Dense and Non-Uniform Haze*. in 2025 The British Machine Vision Conference (<strong>BMVC 2025</strong>).
+- [C1]📄Ruicheng Zhang, Puxin Yan, Zeyu Zhang, Yicheng Chang, <strong><font color="#D8315B">Hongyi Chen</font></strong>, Zhi Jin<sup>#</sup>. *RPD-Diff: Region-Adaptive Physics-Guided Diffusion Model for Visibility Enhancement under Dense and Non-Uniform Haze*. in 2025 The British Machine Vision Conference (<strong>BMVC 2025</strong>). 🔗<a href='https://arxiv.org/pdf/2508.16956'>[paper]</a>
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
