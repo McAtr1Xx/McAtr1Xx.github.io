@@ -69,6 +69,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2025.07 - 2025.09*, Robot Design and Control Intern, Shenzhen MGCOOL Technology Co., Ltd., Shenzhen, China.
+- *2026.06 - present*, Launchpad Program Intern, Shenzhen Loop Area Institute, Shenzhen, China.
 
 
 # 👑 Memberships
