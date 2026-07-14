@@ -19,7 +19,21 @@ redirect_from:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=7A5B95&vCenter=true&width=500&lines=A+constant+learner+in+Robotics;A+persistent+player+of+Contract+Bridge;A+little+fan+of+Christopher+Nolan;An+elementary+singer+in+CH%2FEN;A+not-the-brightest+bulb+with+luck;A+naive+dreamer+in+Hogwarts;A+loyal+summoner+of+Ezreal;An+intermediate+participant+of+Badminton;An+avid+reader+of+Biographies;A+staunch+believer+in+Materialism)](https://git.io/typing-svg)
 
-I am an undergraduate currently focusing specifically in <strong>Robotics</strong> in the research group of <strong><font color="#315bd8">Prof. Mengtang Li</font></strong>🔗<a href='https://scholar.google.com/citations?user=dfS4ltoAAAAJ&hl=en&oi=ao'>[GoogleScholar]</a>. My research areas now are <strong>Mechanical Design</strong> and <strong>Control</strong>.
+I am an incoming PhD student at <strong>Manufacturing and Aerospace Automation Lab</strong>🔗<a href='https://maal.hkust.edu.hk/'>[MAAL]</a>, <strong>The Hong Kong University of Science and Technology</strong>🔗<a href='https://hkust.edu.hk/'>[HKUST]</a>, supervised by <strong><font color="#315bd8">Prof. Molong DUAN</font></strong>🔗<a href='https://scholar.google.com/citations?hl=en&user=-UxXKzoAAAAJ'>[GoogleScholar]</a>. I am also an incoming joint PhD student at <strong>Center for Embodied Artificial Intelligence and Computer Vision</strong>, <strong>Shenzhen Loop Area Institute</strong>🔗<a href='https://www.slai.edu.cn/'>[SLAI]</a>, co-supervised by <strong><font color="#315bd8">Prof. Molong DUAN</font></strong>, a dual-appointment faculty at SLAI.
+
+I currently focus on:
+
+- dexterous hand:
+
+  - model / learning based control
+
+  - contact force prediction
+
+- robotic arm:
+
+  - manipulation (dual arms)
+
+I was previously an BEng student at <strong>Sun Yat-sen University</strong>🔗<a href='https://www.sysu.edu.cn/'>[SYSU]</a>, supervised by <strong><font color="#315bd8">Prof. Mengtang Li</font></strong>🔗<a href='https://scholar.google.com/citations?user=dfS4ltoAAAAJ&hl=en&oi=ao'>[GoogleScholar]</a>. My research area was cable-driven parallel robot, including mechanical design and control.
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -32,21 +46,21 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-- *2022.09 - present*, <strong>B.Eng.</strong> in Intelligent Science and Technology, the School of Intelligent Systems Engineering, <strong>Sun Yat-sen University</strong>. 🔗<a href='https://ise.sysu.edu.cn/'>[ISE]</a> 🔗<a href='https://www.sysu.edu.cn/'>[SYSU]</a>
+- *2022.09 - 2026.06*, <strong>B.Eng.</strong> in Intelligent Science and Technology, School of Intelligent Systems Engineering🔗<a href='https://ise.sysu.edu.cn/'>[ISE]</a>, <strong>Sun Yat-sen University</strong>.
 
 
 # 📝 Publications
 <strong>2026</strong>
 
-- [C4]📄Minghao Wu, <strong><font color="#D8315B">Hongyi Chen</font></strong>, Jing Zhang, Baichuan Wang, Liangliang Wei, Mengtang Li<sup>#</sup>. *A Dual-Mode Asynchronous ESKF Framework for Pose Estimation of Cable-Driven Parallel Robots*. in 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (<strong>IROS 2026</strong>).
+- [C4]📄Minghao Wu, <strong><font color="#D8315B">Hongyi Chen</font></strong>, Jing Zhang, Baichuan Wang, Liangliang Wei, Mengtang Li<sup>#</sup>. <font color="#708993">*A Dual-Mode Asynchronous ESKF Framework for Pose Estimation of Cable-Driven Parallel Robots*</font>. in 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (<strong>IROS 2026</strong>).
 
-- [C3]📄<strong><font color="#D8315B">Hongyi Chen</font></strong>, Minghao Wu, Jing Zhang, Baichuan Wang, Liangliang Wei, Mengtang Li<sup>#</sup>. *Topology-Guided Cable Routing for Collision-Free Large Rotational Workspace in Fully Constrained 8-CDPRs*. in 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (<strong>IROS 2026</strong>).
+- [C3]📄<strong><font color="#D8315B">Hongyi Chen</font></strong>, Minghao Wu, Jing Zhang, Baichuan Wang, Liangliang Wei, Mengtang Li<sup>#</sup>. <font color="#708993">*Topology-Guided Cable Routing for Collision-Free Large Rotational Workspace in Fully Constrained 8-CDPRs*</font>. in 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (<strong>IROS 2026</strong>).
 
 <strong>2025</strong>
 
-- [C2]📄<strong><font color="#D8315B">Hongyi Chen*</font></strong>, Minghao Wu\*, Yicheng Chang, Puxin Yan, Mengtang Li<sup>#</sup>. *Construction and Kinematic Analysis of a Cable-Driven Parallel Robot for Tile Laying*. in 2025 China Automation Congress (<strong>CAC 2025</strong>). 🔗<a href='https://ieeexplore.ieee.org/abstract/document/11487707'>[paper]</a>
+- [C2]📄<strong><font color="#D8315B">Hongyi Chen*</font></strong>, Minghao Wu\*, Yicheng Chang, Puxin Yan, Mengtang Li<sup>#</sup>. <font color="#708993">*Construction and Kinematic Analysis of a Cable-Driven Parallel Robot for Tile Laying*</font>. in 2025 China Automation Congress (<strong>CAC 2025</strong>). 🔗<a href='https://ieeexplore.ieee.org/abstract/document/11487707'>[paper]</a>
 
-- [C1]📄Ruicheng Zhang\*, Puxin Yan\*, Zeyu Zhang, Yicheng Chang, <strong><font color="#D8315B">Hongyi Chen</font></strong>, Zhi Jin<sup>#</sup>. *RPD-Diff: Region-Adaptive Physics-Guided Diffusion Model for Visibility Enhancement under Dense and Non-Uniform Haze*. in 2025 British Machine Vision Conference (<strong>BMVC 2025</strong>). 🔗<a href='https://arxiv.org/pdf/2508.16956'>[paper]</a>
+- [C1]📄Ruicheng Zhang\*, Puxin Yan\*, Zeyu Zhang, Yicheng Chang, <strong><font color="#D8315B">Hongyi Chen</font></strong>, Zhi Jin<sup>#</sup>. <font color="#708993">*RPD-Diff: Region-Adaptive Physics-Guided Diffusion Model for Visibility Enhancement under Dense and Non-Uniform Haze*</font>. in 2025 British Machine Vision Conference (<strong>BMVC 2025</strong>). 🔗<a href='https://arxiv.org/pdf/2508.16956'>[paper]</a>
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -77,6 +91,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2026.06 - present*, Launchpad Program Intern, <strong>Shenzhen Loop Area Institute</strong>, Shenzhen, China.
+
 - *2025.07 - 2025.09*, Robot Design and Control Intern, <strong>Shenzhen MGCOOL Technology Co., Ltd.</strong>, Shenzhen, China.
 
 
