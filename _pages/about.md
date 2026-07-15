@@ -33,7 +33,7 @@ I currently focus on:
 
   - manipulation (dual arms)
 
-I was previously an BEng student at <strong>Sun Yat-sen University</strong> 🔗<a href='https://www.sysu.edu.cn/'>[SYSU]</a>, supervised by <strong><font color="#315bd8">Prof. Mengtang Li</font></strong> 🔗<a href='https://scholar.google.com/citations?user=dfS4ltoAAAAJ&hl=en&oi=ao'>[GoogleScholar]</a>. My research area was cable-driven parallel robot, including mechanical design and control.
+I was previously a BEng student at <strong>Sun Yat-sen University</strong> 🔗<a href='https://www.sysu.edu.cn/'>[SYSU]</a>, supervised by <strong><font color="#315bd8">Prof. Mengtang LI</font></strong> 🔗<a href='https://scholar.google.com/citations?user=dfS4ltoAAAAJ&hl=en&oi=ao'>[GoogleScholar]</a>. My research area was cable-driven parallel robot, including mechanical design and control.
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
