@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2026.04*: 🍻🍻 The course sharing open source initiative of the School of Intelligent Systems Engineering (<strong>OpenISE</strong>) at Sun Yat-sen University is officially live! As one of the early contributors, I hope that junior students can find useful resources here and continuously improve the project through everyone’s contributions. Thanks to all the contributors.Welcome to explore 👉 🔗<a href='https://openise.pages.dev/'>[Website]</a> 🔗<a href='https://github.com/changyicheng1234/OpenISE'>[Github]</a>
+- *2026.04* : 🍻🍻 The course sharing open source initiative of the School of Intelligent Systems Engineering (<strong>OpenISE</strong>) at Sun Yat-sen University is officially live! As one of the early contributors, I hope that junior students can find useful resources here and continuously improve the project through everyone’s contributions. Thanks to all the contributors.Welcome to explore 👉 🔗<a href='https://openise.pages.dev/'>[Website]</a> 🔗<a href='https://github.com/changyicheng1234/OpenISE'>[Github]</a>
 
 # 📖 Educations
 - *2022.09 - 2026.06*, <strong>B.Eng.</strong> in Intelligent Science and Technology, School of Intelligent Systems Engineering 🔗<a href='https://ise.sysu.edu.cn/'>[ISE]</a>, <strong>Sun Yat-sen University</strong>.
@@ -75,7 +75,7 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🏅 Honors and Awards
-- *2025.11* Third-class Outstanding Student Scholarship, Sun Yat-sen University
+- *2025.11* &nbsp; Third-class Outstanding Student Scholarship, Sun Yat-sen University
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
