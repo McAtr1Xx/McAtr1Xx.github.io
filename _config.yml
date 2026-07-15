@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hongyi CHEN"
   avatar           : "images/avatar.jpeg"
-  bio              : "Robotics \n Embodied AI"
-  location         : "Shenzhen, China \n Hong Kong SAR, China"
+  bio              : "Robotics <br> Embodied AI"
+  location         : "Shenzhen, China <br> Hong Kong SAR, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uTIS760AAAAJ"
