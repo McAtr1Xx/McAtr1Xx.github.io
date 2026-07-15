@@ -39,11 +39,8 @@ I was previously a BEng student at <strong>Sun Yat-sen University</strong> 🔗<
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-<!--
 # 🔥 News
-- *2025.08*: &nbsp; something ...
--->
-
+- *2026.04*: 🍻🍻 The course sharing open source initiative of the School of Intelligent Systems Engineering (<strong>OpenISE</strong>) at Sun Yat-sen University is officially live! As one of the early contributors, I hope that junior students can find useful resources here and continuously improve the project through everyone’s contributions. Thanks to all the contributors.Welcome to explore 👉 🔗<a href='https://openise.pages.dev/'>[Website]</a> 🔗<a href='https://github.com/changyicheng1234/OpenISE'>[Github]</a>
 
 # 📖 Educations
 - *2022.09 - 2026.06*, <strong>B.Eng.</strong> in Intelligent Science and Technology, School of Intelligent Systems Engineering 🔗<a href='https://ise.sysu.edu.cn/'>[ISE]</a>, <strong>Sun Yat-sen University</strong>.
@@ -62,8 +59,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [C1]📄Ruicheng Zhang\*, Puxin Yan\*, Zeyu Zhang, Yicheng Chang, <strong><font color="#D8315B">Hongyi Chen</font></strong>, Zhi Jin<sup>#</sup>. *<font color="#708993">RPD-Diff: Region-Adaptive Physics-Guided Diffusion Model for Visibility Enhancement under Dense and Non-Uniform Haze</font>*. in 2025 British Machine Vision Conference (<strong>BMVC 2025</strong>). 🔗<a href='https://arxiv.org/pdf/2508.16956'>[paper]</a>
 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -75,19 +72,14 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🏅 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2025.11* Third-class Outstanding Student Scholarship, Sun Yat-sen University
 
-
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
- -->
-
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 - *2026.06 - present*, Launchpad Program Intern, <strong>Shenzhen Loop Area Institute</strong>, Shenzhen, China.
