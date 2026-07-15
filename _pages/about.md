@@ -75,7 +75,7 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🏅 Honors and Awards
-- *2025.11* &nbsp; Third-class Outstanding Student Scholarship, Sun Yat-sen University
+- *2025.11*&nbsp; Third-class Outstanding Student Scholarship, Sun Yat-sen University
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
